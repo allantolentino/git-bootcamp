@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome to source control using git!");
+using MyConsoleApp;
 
-Console.WriteLine("Hello World! -Miguel");
+Console.WriteLine("Welcome to source control using git!");
+Greeting.Greet("Edwin");
+Greeting.Greet("Miguel");
