@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Paburger naman sir Chiz");
+using MyConsoleApp;
 
-string name = "angie";
-Console.WriteLine("Hi " + name);
+Console.WriteLine("Welcome to source control using git!");
+
+Greeting.Greet("Edwin");
+Greeting.Greet("Angie");
