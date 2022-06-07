@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Cognizant Softvision!");
-Console.WriteLine("Kevin Pacunayen!");
-Console.WriteLine();
+using MyConsoleApp;
+Console.WriteLine("Welcome to source control using git!");
+Greeting.Greet("Kevin");
+Greeting.Greet("Edwin");
