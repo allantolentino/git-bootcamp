@@ -3,4 +3,5 @@ using MyConsoleApp;
 Console.WriteLine("Welcome to source control using git!");
 Greeting.Greet("Allan");
 Greeting.Greet("Edwin");
+Greeting.Greet("Angie");
 Greeting.Greet("Miguel");
