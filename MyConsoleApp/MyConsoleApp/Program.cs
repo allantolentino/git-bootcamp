@@ -5,3 +5,4 @@ Greeting.Greet("Allan");
 Greeting.Greet("Edwin");
 Greeting.Greet("Angie");
 Greeting.Greet("Marlon");
+Greeting.Greet("Miguel");
